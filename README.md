@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=missaouiamal&label=Profile%20views&color=0e75b6&style=flat" alt="missaouiamal" /> </p>
 
-- 📫 How to reach me **amal.missaoui@insat.ucar.tn**
+- 📫 How to reach me **amal9missaoui@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
